@@ -1,0 +1,33 @@
+Early Draft FIP Design
+
+
+Fonts	HTML
+	<link href="https://fonts.googleapis.com/css?family=Arvo&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Arvo|Rubik+Mono+One&display=swap" rel="stylesheet">
+
+	CSS
+	font-family: 'Arvo', serif;
+	font-family: 'Rubik Mono One', sans-serif;
+
+
+Slide show content
+	Home
+	Events/tours and news, Limited time lines, bundles/specials
+
+	Store
+	deals/buildAbox/ groupsales, limited time/seasonal/sales
+
+
+Home Layout
+	-Hero image full width (Beer fridge? craft beer collection?)
+	-Slideshows featuring regulary changing content 
+
+Store Layout
+	-2 slideshows side by side
+	-beer sales items 250x250px
+
+General
+	-nav in header and footer
+	-link to social media in footer
+	-themed in dark browns and cream colours
+	
